@@ -1,13 +1,14 @@
 {
   "availableMods": {
     "LSZLG": {
-			"mod" : "https://raw.githubusercontent.com/LastSpy/LSZLG/tree/vcmi-1.7/LSZLG/mod.json",
-			"download" : "https://github.com/LastSpy/LSZLG/archive/refs/heads/LSZLG.zip",
+			"mod" : "https://raw.githubusercontent.com/LastSpy/LSZLG/vcmi-1.7/LSZLG/mod.json",
+			"download" : "https://github.com/LastSpy/LSZLG/archive/refs/heads/vcmi-1.7.zip",
 			"screenshots" : [],
 			"downloadSize" : 0,
 			"githubStars" : 1
     }
   }
 }
+
 
 
