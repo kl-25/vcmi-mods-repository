@@ -1,7 +1,7 @@
 {
   "availableMods": {
     "LSZLG": {
-			"mod" : "https://github.com/LastSpy/LSZLG/LSZLG/mod.json",
+			"mod" : "https://github.com/LastSpy/LSZLG/main/LSZLG/mod.json",
 			"download" : "https://github.com/LastSpy/LSZLG/archive/refs/heads/LSZLG.zip",
 			"screenshots" : [],
 			"downloadSize" : 0,
@@ -9,3 +9,4 @@
     }
   }
 }
+
